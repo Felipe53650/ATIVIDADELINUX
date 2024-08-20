@@ -1,4 +1,4 @@
-## ATIVIDADE LINUX & AWS 
+## ATIVIDADE LINUX & AWS - Compass UOL - AWS & DevSecOps - 2024
 
 1. Requisitos AWS
    
