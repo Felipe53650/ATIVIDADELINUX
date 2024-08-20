@@ -15,3 +15,11 @@
    - CRIAÇÃO DO SCRIPT DE VALIDAÇÃO DO STATUS DO SERVIÇO/APACHE (contendo DATA+HORA, NOME DO SERVIÇO, STATUS E MENSAGEM PERSONALIZADA DE ONLINE OU OFFLINE);
    - AUTOMATIZAÇÃO DA EXECUÇÃO DO SCRIPT DE 5 EM 5 MINUTOS.
 
+
+### GERAR A CHAVE SSH DE ACESSO PÚBLICO AO AMBIENTE
+
+A chave poderá ser gerada junto à criação da instância EC2. Para isso, acessamos o portal inicial da AWS e entramos na guia EC2.
+
+![image](https://github.com/user-attachments/assets/a4602739-45ea-49b6-b31f-5b7d50600bbd)
+
+
