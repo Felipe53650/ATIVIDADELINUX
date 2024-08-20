@@ -16,10 +16,23 @@
    - AUTOMATIZAÇÃO DA EXECUÇÃO DO SCRIPT DE 5 EM 5 MINUTOS.
 
 
+
+
+
 ### GERAR A CHAVE SSH DE ACESSO PÚBLICO AO AMBIENTE
 
-A chave poderá ser gerada junto à criação da instância EC2. Para isso, acessamos o portal inicial da AWS e entramos na guia EC2.
+A chave poderá ser gerada junto à criação da instância EC2. Para isso, acessamos o portal inicial da AWS,entramos na guia EC2 e clicamos na opção Instâncias, localizada na barra de navegação à esquerda.
 
 ![image](https://github.com/user-attachments/assets/a4602739-45ea-49b6-b31f-5b7d50600bbd)
+
+![image](https://github.com/user-attachments/assets/363f619b-6067-4b4a-a505-87a13fa24c92)
+
+Então, clica no botão Executar Instâncias para criar uma nova VM EC2.
+
+A foto abaixo mostra a tela com os campos de criação do par de chaves (SSH).
+
+![image](https://github.com/user-attachments/assets/3b7cdea3-e1c1-4b62-b180-a9da84899b0b)
+
+Nome não é obrigatório colocar. O tipo do par foi marcado como RSA, e o formato do arquivo que será gerado é .pem, visto que é para ser usado como SSH. Após marcadas as opções, clicar no botão Criar Par de Chaves.
 
 
